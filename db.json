@@ -2,15 +2,18 @@
   "portofolio": [
     {
       "id": 1,
-      "title": "LOW POLLY"
+      "title": "LOW POLLY",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png"
     },
 {
       "id": 2,
-      "title": "PAP"
+      "title": "PAP",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png"
     },
 {
       "id": 3,
-      "title": "DEAR"
+      "title": "DEAR",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/LaravelLogo.png"
     }
   ] 
 }
